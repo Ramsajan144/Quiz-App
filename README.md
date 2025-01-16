@@ -2,13 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## ScreenShots
-<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/Ramsajan144/Quiz-App/blob/main/Screenshot%202025-01-16%20160237.png">
 ## ScreenShots
-<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/Ramsajan144/Quiz-App/blob/main/Screenshot%202025-01-16%20160311.png">
 ## ScreenShots
-<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/Ramsajan144/Quiz-App/blob/main/Screenshot%202025-01-16%20160342.png">
 ## ScreenShots
-<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/Ramsajan144/Quiz-App/blob/main/Screenshot%202025-01-16%20160443.png">
 
 
 
